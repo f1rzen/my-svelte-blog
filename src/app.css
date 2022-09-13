@@ -42,7 +42,7 @@ h2{
 
 body{
     background-color: #000;
-    margin: 3em;
+    
     margin-bottom: 0;
     color: #efefef;
 }
@@ -64,4 +64,12 @@ body{
 
   ::-webkit-scrollbar-thumb:hover {
     background: #3b3b3b;
+  }
+
+  img{
+    @apply lg:p-16;
+  }
+
+  h3{
+    @apply justify-start;
   }
