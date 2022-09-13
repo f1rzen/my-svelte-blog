@@ -1,0 +1,2 @@
+<h1 class="text-6xl">Blog Page</h1>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum qui amet nesciunt quos porro cum aspernatur repellendus recusandae! Ad praesentium magnam sequi qui ratione aspernatur vel repellat. Temporibus, nisi fugiat!</p>

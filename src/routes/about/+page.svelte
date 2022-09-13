@@ -1,0 +1,2 @@
+<h1 class="text-6xl">About Me</h1>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit, dolorem dolor officia dolores iusto tempora in reprehenderit obcaecati. Repellendus officiis debitis iure, dolore nostrum dignissimos cumque accusamus. Alias, cupiditate animi.</p>
