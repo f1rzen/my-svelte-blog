@@ -1,2 +1,12 @@
-<h1 class="text-6xl">Blog Page</h1>
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum qui amet nesciunt quos porro cum aspernatur repellendus recusandae! Ad praesentium magnam sequi qui ratione aspernatur vel repellat. Temporibus, nisi fugiat!</p>
+<script>
+    import Card from '../../lib/components/Card.svelte'
+</script>
+<h1 class="text-6xl">Blog</h1>
+
+<div class="grid grid-cols-1 lg:grid-cols-2 child:m-8">
+
+    <Card />
+    <Card />    
+    <Card />    
+    <Card />    
+</div>

@@ -6,9 +6,10 @@
   </div>
   <div class="text-xl">
     <ul class="flex child:mx-4 ">
-      <li><a class="hover:underline" href="/about">About</a></li>
-      <li><a class="hover:underline" href="/contact">Contact</a></li>
-      <li><a class="hover:underline" href="/blog">Blog</a></li>
+      <li><a class="hover:underline underline-offset-4" href="/">Home</a></li>
+      <li><a class="hover:underline underline-offset-4" href="/about">About</a></li>
+      <li><a class="hover:underline underline-offset-4" href="/contact">Contact</a></li>
+      <li><a class="hover:underline underline-offset-4" href="/blog">Blog (TR)</a></li>
     </ul>
   </div>
 </nav>

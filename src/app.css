@@ -4,6 +4,10 @@
 
 h1,h2,h3,h4,h5,h6 {@apply font-serif;}
 
+h2{
+    @apply text-6xl;
+}
+
 @font-face {
     font-family: 'legatum';
     src: local('legatum'), local('Legatum'), url('/fonts/legatum/Legatum-Bold.otf');
@@ -39,6 +43,25 @@ h1,h2,h3,h4,h5,h6 {@apply font-serif;}
 body{
     background-color: #000;
     margin: 3em;
+    margin-bottom: 0;
     color: #efefef;
 }
 
+::-webkit-scrollbar {
+    width: 10px;
+    
+
+  }
+
+::-webkit-scrollbar-track {
+    background: #000;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #1b1b1b;
+    border-radius: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #3b3b3b;
+  }
