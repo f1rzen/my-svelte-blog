@@ -4,7 +4,7 @@
 
 </script>
 
-<nav class="flex items-center lg:px-32 justify-between pb-0 lg:pb-[3em] m-[3em] mb-0">
+<nav class="flex items-center lg:px-32 justify-between pb-32 lg:pb-[3em] m-[3em] mb-0">
   <div class="text-4xl">
     <h1><a href="/">ilkay.me</a></h1>
   </div>
