@@ -17,18 +17,17 @@
       </li>
     {/each}
   </ul> -->
- 
-<ul class="grid-cols-2">
+ <div class="grid w-screen place-items-center">
+<ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-16">
     {#each data.posts as post}
-      <li class="pt-6 child:m-8 ">
+      <li class="pt-6 ">
         <a href={post.path}>
           <Card title={post.meta.title} date={post.meta.date} path={post.path} img={post.meta.img}/>
         </a>
-
       </li>
     {/each}
   </ul>
-
+</div>
 <!-- 
 <div class="grid grid-cols-1 lg:grid-cols-2 child:m-8">
     <ul>
