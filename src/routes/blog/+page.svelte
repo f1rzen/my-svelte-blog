@@ -1,7 +1,7 @@
 <script>
 	import { each } from 'svelte/internal';
-    import Card from '../../lib/components/Card.svelte'
-    export let data
+    import Card from '../../lib/components/Card.svelte';
+    export let data;
 </script>
 <h1 class="text-6xl">Blog</h1>
 

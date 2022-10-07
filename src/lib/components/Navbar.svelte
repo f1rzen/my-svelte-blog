@@ -11,9 +11,8 @@
   <div class="text-xl hidden md:block lg:visible ">
     <ul class="flex child:mx-4 ">
       <li><a class="hover:underline underline-offset-4" href="/">Home</a></li>
-      <li><a class="hover:underline underline-offset-4" href="/about">About</a></li>
-      <li><a class="hover:underline underline-offset-4" href="/contact">Contact</a></li>
       <li><a class="hover:underline underline-offset-4" href="/blog">Blog (TR)</a></li>
+      <li><a class="hover:underline underline-offset-4" href="/contact">Contact</a></li>
       
     </ul>
     
